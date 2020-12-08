@@ -2,6 +2,8 @@
 
 The Python notebook is the result of my thesis "Explaining machine learning algorithms with Visual Analytics". It contains both the steps to reproduce the novel misinformation classifiers and the elements required for the explanation interface.
 
+Both the provided notebook and explanation interface are currently in development. 
+
 Disclaimers
 
 - Please do not distribute the data without approval

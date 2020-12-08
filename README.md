@@ -6,6 +6,6 @@ Both the provided notebook and explanation interface are currently in developmen
 
 Disclaimers
 
-- Please do not distribute the data without approval
+- Please do not distribute the data without approval of their respective authors
 - This project is currently still in development
 - Do not deploy or use this code in production!
